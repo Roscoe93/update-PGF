@@ -1,2 +1,3 @@
 node_modules
 exec
+.vscode/launch.json
